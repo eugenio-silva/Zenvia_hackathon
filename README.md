@@ -12,7 +12,7 @@ Zenvia New Horizon Hackathon
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
    * [Tecnologias](#tecnologias)
-   * [Autores do Projeto](#autores)
+   * [Autores do Projeto](#Autores-do-Projeto)
 
 
 ## Sobre
