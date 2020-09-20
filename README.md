@@ -11,9 +11,9 @@ Zenvia New Horizon Hackathon
 
 ## Sobre
 
-Aplicativo que promove o encontro entre prestadores de serviços (de qualquer segmento) e seus potenciais clientes.
+Aplicativo que promove o encontro entre prestadores de serviços (de qualquer segmento) e seus potenciais clientes. Acesse o [Link](https://youtu.be/vHhDJHS_L28) para saber mais sobre o AutoBot.
 
-[Vídeo Pitch](https://youtu.be/vHhDJHS_L28)
+
 
 
 ## Tecnologias
