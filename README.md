@@ -3,7 +3,7 @@ Zenvia New Horizon Hackathon
 
 # AutoBot 
 
- * [About](#About)
+ * [About](#Sobre)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
