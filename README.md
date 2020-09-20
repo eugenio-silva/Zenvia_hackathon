@@ -5,7 +5,7 @@ Zenvia New Horizon Hackathon
 
  * [Sobre](#Sobre)
    * [Como usar](#como-usar)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias](#Tecnologias)
    * [Autores do Projeto](#Autores-do-Projeto)
 
 
@@ -14,7 +14,7 @@ Zenvia New Horizon Hackathon
 Aplicativo que promove o encontro entre prestadores de serviços (de qualquer segmento) e seus potenciais clientes.
 
 
-## Tecnologis
+## Tecnologias
 
 * Node.js
 * React Native
