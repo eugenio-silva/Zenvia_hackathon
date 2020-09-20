@@ -13,6 +13,8 @@ Zenvia New Horizon Hackathon
 
 Aplicativo que promove o encontro entre prestadores de serviços (de qualquer segmento) e seus potenciais clientes.
 
+[Flex Grid](https://www.youtube.com/watch?v=WH6jIR3P6cQ)
+
 
 ## Tecnologias
 
