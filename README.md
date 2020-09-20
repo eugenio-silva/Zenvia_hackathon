@@ -13,7 +13,7 @@ Zenvia New Horizon Hackathon
 
 Aplicativo que promove o encontro entre prestadores de serviços (de qualquer segmento) e seus potenciais clientes.
 
-[Vídeo Pitch](https://www.youtube.com/watch?v=WH6jIR3P6cQ)
+[Vídeo Pitch](https://youtu.be/vHhDJHS_L28)
 
 
 ## Tecnologias
