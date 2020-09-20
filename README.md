@@ -4,13 +4,7 @@ Zenvia New Horizon Hackathon
 # AutoBot 
 
  * [Sobre](#Sobre)
-   * [Instalação](#instalacao)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
    * [Tecnologias](#tecnologias)
    * [Autores do Projeto](#Autores-do-Projeto)
 
@@ -18,6 +12,14 @@ Zenvia New Horizon Hackathon
 ## Sobre
 
 Aplicativo que promove o encontro entre prestadores de serviços (de qualquer segmento) e seus potenciais clientes.
+
+
+## Tecnologis
+
+* Node.js
+* React Native
+* Typescript
+
 
 ## Autores do Projeto
 
